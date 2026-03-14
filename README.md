@@ -60,7 +60,7 @@ rest.html
 
     contact.html
 
-    <!DOCTYPE html>
+    
 <html>
 <head>
     <title>Book Your Table Now!</title>
@@ -90,7 +90,7 @@ rest.html
 
 admin.html
 
-<!DOCTYPE html>
+
 <html>
 <head>
     <title>Administration Team</title>
